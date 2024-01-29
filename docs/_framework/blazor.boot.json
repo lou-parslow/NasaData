@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NasaData",
   "resources": {
-    "hash": "sha256-maQGFJ8ATlBbfzSiKgpLEY1aGHHtCusLPhY1KulWZGM=",
+    "hash": "sha256-D+bZsfYOMyioQ/Ql7z0iO3L2i7BIZzyCfyeCgDtn6qE=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.jtazi57m8j.js": "sha256-0/zT4VaNGCA+pHb1kFPBvpg4SxIUr7P/pnheJknWyrQ="
     },
@@ -33,7 +33,7 @@
       "Microsoft.FluentUI.AspNetCore.Components.wasm": "sha256-7IF1DbXLXwPEYQOK33fAAP09QDoFrmPktBCpEVZyFlk=",
       "Microsoft.JSInterop.wasm": "sha256-Uw6u7VSkbKo/0GeCV95ja+drqzK9XH3ingS2CJavB70=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-aCgxiIU+arbpOkgLngl1hBQLocrFL2/t1zUJV8HXOzI=",
-      "NasaData.wasm": "sha256-EnoS8FQ0O14m8sz+F+z3jH2eqvQrpHjfAN5j56pWJZc=",
+      "NasaData.wasm": "sha256-46hBmQhfrHMt+llJILsiIGSuLn5gfP5rH14pDJPXnQ0=",
       "System.Collections.Concurrent.wasm": "sha256-NIbH0KvlKf+M7vV6zPH0FTPQsyXEcM7bO8Mlo59iGOM=",
       "System.Collections.wasm": "sha256-JiWwWUuJBUO2BUgvy0oDYBjrlK/W9VgIOZ9gta9nAE0=",
       "System.ComponentModel.Annotations.wasm": "sha256-Dz1srH0lhXCyynO7Uz0Fn8ltZHD090ISwhBMUdLgcOU=",
